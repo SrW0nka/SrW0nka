@@ -1,11 +1,11 @@
 # Yoooo 👋
 
 ### ABOUT ME
-- My name is Marcos, but you can just call me **Wonka**
+- My name is Marco, but you can just call me **Wonka**
 - From **brazil**
 - My discord: **SrWonka#0451**
 
 ### MY WORK's
-* Translate the cubari docs to portuguese: [CubariPortuguese](https://github.com/SrW0nka/CubariPortuguese)
-* Tranlator of TachideskJUI 
+* Braziliam documentation for [Cubari](https://cubari.moe/): [CubariPortuguese](https://github.com/SrW0nka/CubariPortuguese).
+* Tranlator of [TachideskJUI](https://github.com/Suwayomi/TachideskJUI)
 
