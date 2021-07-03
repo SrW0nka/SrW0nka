@@ -7,5 +7,5 @@
 
 ### MY WORK's
 * Braziliam documentation for [Cubari](https://cubari.moe/): [CubariPortuguese](https://github.com/SrW0nka/CubariPortuguese).
-* Tranlator of [TachideskJUI](https://github.com/Suwayomi/TachideskJUI)
+* Tranlator of [TachideskJUI](https://github.com/Suwayomi/TachideskJUI) ([TachideskJUIWeblate](https://hosted.weblate.org/projects/tachideskjui/))
 
